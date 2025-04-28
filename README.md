@@ -1,1 +1,1 @@
-# S-P-Charts
+# SP500 Charts
